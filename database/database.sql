@@ -1,0 +1,3 @@
+CREATE DATABASE Africa_Pays;
+
+
